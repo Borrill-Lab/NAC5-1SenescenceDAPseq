@@ -1,0 +1,8 @@
+NAC5A	DAP_7/DAP_7.dupmark.sorted.bam	DAP_24/DAP_24.dupmark.sorted.bam		DAP_1/DAP_1.dupmark.sorted.bam	DAP_18/DAP_18.dupmark.sorted.bam	DAP_35/DAP_35.dupmark.sorted.bam
+NAC5B	DAP_10/DAP_10.dupmark.sorted.bam	DAP_25/DAP_25.dupmark.sorted.bam		DAP_1/DAP_1.dupmark.sorted.bam	DAP_18/DAP_18.dupmark.sorted.bam	DAP_35/DAP_35.dupmark.sorted.bam
+NAMB1	DAP_13/DAP_13.dupmark.sorted.bam	DAP_30/DAP_30.dupmark.sorted.bam	DAP_47/DAP_47.dupmark.sorted.bam	DAP_1/DAP_1.dupmark.sorted.bam	DAP_18/DAP_18.dupmark.sorted.bam	DAP_35/DAP_35.dupmark.sorted.bam
+NAMD1	DAP_14/DAP_14.dupmark.sorted.bam	DAP_31/DAP_31.dupmark.sorted.bam		DAP_1/DAP_1.dupmark.sorted.bam	DAP_18/DAP_18.dupmark.sorted.bam	DAP_35/DAP_35.dupmark.sorted.bam
+NAMA2	DAP_15/DAP_15.dupmark.sorted.bam	DAP_32/DAP_32.dupmark.sorted.bam		DAP_1/DAP_1.dupmark.sorted.bam	DAP_18/DAP_18.dupmark.sorted.bam	DAP_35/DAP_35.dupmark.sorted.bam
+NAMB2	DAP_16/DAP_16.dupmark.sorted.bam	DAP_33/DAP_33.dupmark.sorted.bam		DAP_1/DAP_1.dupmark.sorted.bam	DAP_18/DAP_18.dupmark.sorted.bam	DAP_35/DAP_35.dupmark.sorted.bam
+NAMD2	DAP_17/DAP_17.dupmark.sorted.bam	DAP_34/DAP_34.dupmark.sorted.bam		DAP_1/DAP_1.dupmark.sorted.bam	DAP_18/DAP_18.dupmark.sorted.bam	DAP_35/DAP_35.dupmark.sorted.bam
+NAMA1	DAP_12/DAP_12.dupmark.sorted.bam	DAP_29/DAP_29.dupmark.sorted.bam	DAP_46/DAP_46.dupmark.sorted.bam	DAP_1/DAP_1.dupmark.sorted.bam	DAP_18/DAP_18.dupmark.sorted.bam	DAP_35/DAP_35.dupmark.sorted.bam

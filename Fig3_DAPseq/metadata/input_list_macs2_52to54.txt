@@ -1,0 +1,3 @@
+DAP_52	DAP_52/DAP_52.dupmark.sorted.bam
+DAP_53	DAP_53/DAP_53.dupmark.sorted.bam
+DAP_54	DAP_54/DAP_54.dupmark.sorted.bam
