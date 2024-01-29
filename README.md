@@ -17,7 +17,9 @@ Within each folder, scripts are numbered in the order in which they were run. Sc
 
 ## DAP-seq data availability
 Raw data for the DAP-seq can be obtained through BioProject ID PRJEB72016 on the European Nucleotide Archive.
+
 Within the Fig3_DAPseq folder, subfolder 'metadata' contains metadata files such as sample lists input into scripts.
+
 The wheat reference genome Chinese Spring IWGSC Refseq v1.1 and high confidence gene annotations were obtained from https://wheat-urgi.versailles.inra.fr/Seq-Repository/
 
 ## Acknowledgement
