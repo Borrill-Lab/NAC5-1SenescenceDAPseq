@@ -9,7 +9,7 @@ Evans et al. Wheat NAC transcription factor _NAC5-1_ is a positive regulator of 
 
 `Fig2_NAC5_transgenics` contains R scripts to calculate senescence metrics, analyse qPCR data and plot Fig 2, Fig S4 and Fig S5.
 
-`Fig3_DAPseq` contains a bash, perl and R pipeline to process DAP-seq data, plot Fig 3 and generate Supplementary Datasets.
+`Fig3_DAPseq` contains a Bash, Perl and R pipeline to process DAP-seq data, plot Fig 3 and generate Supplementary Datasets.
 
 `FigS2` contains a script to plot expression data in Fig S2.
 
@@ -22,7 +22,9 @@ Within the Fig3_DAPseq folder, subfolder 'metadata' contains metadata files such
 
 The wheat reference genome Chinese Spring IWGSC Refseq v1.1 and high confidence gene annotations were obtained from https://wheat-urgi.versailles.inra.fr/Seq-Repository/
 
-## Acknowledgement
+## Acknowledgements
 The DAP-seq analysis pathway in this repository is inspired by (and script "generate_3input_greenscreenBed.sh" directly adapted from) the following repo, to which these authors are grateful:
+
 Klasfeld S, Roulé T, Wagner D (2022) Greenscreen: A simple method to remove artifactual signals and enrich for true peaks in genomic datasets including ChIP-seq data. Plant Cell. doi:10.1093/plcell/koac282
 https://github.com/sklasfeld/GreenscreenProject
+
